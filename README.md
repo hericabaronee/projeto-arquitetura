@@ -2,8 +2,12 @@ Landing Page
 
 Esta landing page foi desenvolvida para uma empresa de projetos de arquitetura, destacando seus anos de experiência no mercado, a quantidade de empreendimentos realizados e a área total de m² construídos. A página visa apresentar de forma clara e objetiva a expertise da empresa, além de permitir que os usuários entrem em contato facilmente via formulário.
 
-A página foi criada utilizando HTML e CSS.
+# Projeto Arquitetura
 Acesse a Página: https://hericabaronee.github.io/projeto-arquitetura/
+
+## Planilha de Dados
+Você pode acessar a planilha do projeto no link abaixo:
+https://docs.google.com/spreadsheets/d/1UM_PR2FGgGAr1sqxLk-eGbR4ktrgh8MFXVY1EZnYdtU/edit?usp=sharing
 
 
 Tecnologias Utilizadas
