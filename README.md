@@ -1,4 +1,5 @@
-Landing Page - Projetos de Arquitetura
+Landing Page
+
 Esta landing page foi desenvolvida para uma empresa de projetos de arquitetura, destacando seus anos de experiência no mercado, a quantidade de empreendimentos realizados e a área total de m² construídos. A página visa apresentar de forma clara e objetiva a expertise da empresa, além de permitir que os usuários entrem em contato facilmente via formulário.
 
 A página foi criada utilizando HTML e CSS.
