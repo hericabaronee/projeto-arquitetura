@@ -4,12 +4,6 @@ Esta landing page foi desenvolvida para uma empresa de projetos de arquitetura, 
 A página foi criada utilizando HTML e CSS.
 Acesse a Página: https://hericabaronee.github.io/projeto-arquitetura/
 
-Estrutura do Projeto
-index.html: Contém a estrutura da página em HTML, incluindo títulos, textos informativos e um formulário de contato integrado com a API do Sheet Monkey.
-
-style.css: Arquivo de estilos, responsável pela apresentação visual da página, como cores, fontes, layout responsivo e animações.
-
-imagem.svg: Imagem usada na landing page para ilustrar o conteúdo visual.
 
 Tecnologias Utilizadas
 HTML5: Para estruturar semanticamente o conteúdo da página.
